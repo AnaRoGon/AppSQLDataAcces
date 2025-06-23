@@ -68,4 +68,6 @@ Para ejecutar la app copia el enlace del repositorio en GitHub: <https://github.
 3. Pega la URL del repositorio y sigue las instrucciones para clonar el proyecto localmente.
 4. Una vez clonado, NetBeans detectará el proyecto y podrás abrirlo y ejecutarlo directamente desde el IDE.
 
+Puedes descargas las librerías necesaría para el correcto funcionamiento de la aplicación en el siguiente enlace: <https://drive.google.com/file/d/1TNo6M8GCBgFcmLePNn-_jb6hR9RT614k/view?usp=drive_link>
+
 
