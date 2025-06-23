@@ -61,7 +61,7 @@ Para el desarrollo de esta aplicación se destaca:
 
 # Instrucciones de uso.
 
-Para ejecutar la app copia el enlace del repositorio en GitHub: <https://github.com/AnaRoGon/AppSQLDataAcces.git>
+Para ejecutar la app copia el enlace del repositorio en GitHub: <https://github.com/AnaRoGon/AppSQLDataAccess.git>
 
 1. Abre NetBeans y ve al menú:
 2. Team -> Git -> Clone.
